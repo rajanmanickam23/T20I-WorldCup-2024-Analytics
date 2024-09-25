@@ -22,6 +22,9 @@ The dataset includes performance statistics for all teams and players across var
 - Strike Rate
 - Boundary Percentage
 
+## Output
+[T20 World Cup 2024 Analytics Report](t20_world_cup_output.pdf)
+
 ### Bowlers
 - Wickets Taken
 - Economy Rate
